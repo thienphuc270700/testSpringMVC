@@ -1,0 +1,4 @@
+com\mycompany\springmvcdemo\DictionaryController.class
+com\ntp\config\DispatcherServleInitializer.class
+com\ntp\config\WebApplicationContextConfig.class
+com\mycompany\springmvcdemo\HomeController.class
